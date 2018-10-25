@@ -1,6 +1,6 @@
 [bits 32]
 global krand
-global ksleep:
+global ksleep
 [extern main]
 
  
