@@ -12,4 +12,4 @@ check usb drive path in make file before flash to avoid data los.in my case usb 
 
 
 yotutube video:
-https://www.youtube.com/watch?v=ug6WjV-6JwA
+https://www.youtube.com/watch?v=fimpOBOuWmg
