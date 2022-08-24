@@ -10,7 +10,6 @@ check usb drive path in make file before flash to avoid data los.in my case usb 
 
 ![](nobotro_os.gif)
 
-If you want to buy me coffee or beer https://paypal.me/nobotro
 
 
 yotutube video:
